@@ -1,0 +1,1 @@
+select * students where city like '[a-fA-F]%';
